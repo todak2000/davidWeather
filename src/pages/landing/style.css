@@ -1,0 +1,6 @@
+/* search input */
+
+input[type='search']:focus{
+  outline-width: 1px;
+  outline-color: #C7D2FE;
+}
